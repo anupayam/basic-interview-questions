@@ -12,7 +12,7 @@
 
 #### 3. Can you create a multi-colored text on a web page?
 	Yes. To create a multicolor text on a web page you can use <font color ="color"> </font>.
-   it is helpful for the specific texts you want to color.
+   	it is helpful for the specific texts you want to color.
 
 #### 4. What is the use of an iframe tag?
 	An iframe is used to display a web page within a web page.
@@ -317,7 +317,7 @@
         	SELECT * FROM Customers WHERE CustomerName like ‘xyz_’
 
 #### 13. What is a different type of index?
-    	   Clustered index: It is the index at which data is physically stored on the disk. Therefore, only one clustered index can 	be created in a database table.
+    	    Clustered index: It is the index at which data is physically stored on the disk. Therefore, only one clustered index can 	be created in a database table.
         
     	   Non-clustered index: It does not define physical data but represents a logical ordering. Typically, B-Tree or B+Tree data structures are created for this purpose.
 
